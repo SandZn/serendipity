@@ -34,7 +34,7 @@ I wrote Serendipity on my Macbook, and it can run successfully for sure on the E
    runTeoria.sh
    ```
 
-#4. Main steps
+# 4. Main steps
 
 each shell script will do the operations below:
 
