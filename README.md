@@ -8,7 +8,7 @@ to verify its optimization effect. The main verification steps for each JavaScri
 
 # 2. Dev environment
 
-I wrote Serendipity on my Macbook, and it can run successfully for sure on the Env below:
+I wrote `serendipity` on my Macbook, and it can run successfully for sure on the Env below:
 
 >MacOS 11.2.1
 >
